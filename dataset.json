@@ -1,0 +1,28 @@
+
+[
+    {
+       "hospitalName": "Rajiv Gandhi Hospital",
+       "patientCount": "100",
+       "hospitalLocation": "Chennai"
+    },
+    {
+       "hospitalName": "Appolo Hospital",
+       "patientCount": "900",
+       "hospitalLocation": "Chennai"
+    },
+    {
+       "hospitalName": "SRM Hospital",
+       "patientCount": "1500",
+       "hospitalLocation": "Chennai"
+    },
+    {
+       "hospitalName": "Aravid Eye Hospital",
+       "patientCount": "700",
+       "hospitalLocation": "Madurai"
+    },
+    {
+       "hospitalName": "JNU Hospital",
+       "patientCount": "600",
+       "hospitalLocation": "Pondicherry"
+    }
+ ]
